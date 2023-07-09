@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StoneridgeTaskIljaSokolov": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\User\\Desktop\\test.txt\""
+    }
+  }
+}
